@@ -1,0 +1,5 @@
+# tas yaml file
+
+inputs:
+  - start_dir: test/ 
+    pattern: 'test_*.py'

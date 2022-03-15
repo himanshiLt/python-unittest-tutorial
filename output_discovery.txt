@@ -1,0 +1,113 @@
+{
+  "testCases": [
+    {
+      "id": "22bf8797bd9d7ba65192f2fb44215b27356f6a9649cd9f2ddd0557db02517809",
+      "label": "ExceptionTest.test_assert_raises",
+      "file": "test/test_exception.py",
+      "test-suites": "ExceptionTest"
+    },
+    {
+      "id": "3848936dab7e712d391b306645c1ac40ed841f497a9ff28a42179aeeec4b428e",
+      "label": "ExceptionTest.test_trap_locally",
+      "file": "test/test_exception.py",
+      "test-suites": "ExceptionTest"
+    },
+    {
+      "id": "bc77bc6d52f09f7e38cae9215c470f16ebf675f6dc46438cb2894729283ef795",
+      "label": "FailureMessageTest.test_fail",
+      "file": "test/test_failwithmessage.py",
+      "test-suites": "FailureMessageTest"
+    },
+    {
+      "id": "9284fa394d750aab47d237335fe81a37c58ad8e7dba548bfd25910a477cff5a0",
+      "label": "FixturesTest.test",
+      "file": "test/test_fixtures.py",
+      "test-suites": "FixturesTest"
+    },
+    {
+      "id": "5f7e6b83c3386ec7652d8a4ee2bfd3b53a2a7ac30e25463f1e25b6d47fe013ad",
+      "label": "InequalityTest.test_equal",
+      "file": "test/test_notequal.py",
+      "test-suites": "InequalityTest"
+    },
+    {
+      "id": "37102ab6dcecdeac9bd905cfd956b05e8077e1ca35a8f84380aca462c585fccc",
+      "label": "InequalityTest.test_not_equal",
+      "file": "test/test_notequal.py",
+      "test-suites": "InequalityTest"
+    },
+    {
+      "id": "0f4d7efffdcc3d58f6ada6b7930372ecd6e7129994a3a53434e9aa411a81bbdb",
+      "label": "OutcomesTest.test_error",
+      "file": "test/test_outcomes.py",
+      "test-suites": "OutcomesTest"
+    },
+    {
+      "id": "0a7896139057b469b315d244a57c65c040c8905939e11d4a6c3bb3b0165c62ac",
+      "label": "OutcomesTest.test_fail",
+      "file": "test/test_outcomes.py",
+      "test-suites": "OutcomesTest"
+    },
+    {
+      "id": "7085950eae082d160c792317631007c646f4b262c8553edf0ce646dd4f7cc3c9",
+      "label": "OutcomesTest.test_pass",
+      "file": "test/test_outcomes.py",
+      "test-suites": "OutcomesTest"
+    },
+    {
+      "id": "e1c8592be9a9b68918a9195eb5713d9fd6128231c023932092802c84bfd20d07",
+      "label": "SimplisticTest.test",
+      "file": "test/test_simple.py",
+      "test-suites": "SimplisticTest"
+    },
+    {
+      "id": "6c3312675da82c2b28515b9debd8409b9a9e40fe6ca0f7d595d2d99c5cd8d294",
+      "label": "TruthTest.test_assert_false",
+      "file": "test/test_truth.py",
+      "test-suites": "TruthTest"
+    },
+    {
+      "id": "6b88360f725bfc5ce2b0fdd92ad11816dfb71fea7a05ce8c49624ad2c286f88b",
+      "label": "TruthTest.test_assert_true",
+      "file": "test/test_truth.py",
+      "test-suites": "TruthTest"
+    }
+  ],
+  "testSuites": [
+    {
+      "id": "ccd83b618d510a8d2ea8e182b184c8536dda4a43969fdf1a0077234b4430190e",
+      "label": "ExceptionTest",
+      "file": "test/test_exception.py"
+    },
+    {
+      "id": "f472fe611e3d7185766eac13d1d6d7b3ebd33c6627a8281353644cb16a04ef58",
+      "label": "FailureMessageTest",
+      "file": "test/test_failwithmessage.py"
+    },
+    {
+      "id": "7e850cf6b09c5c040da4292d13ae7079d5b57b3befae0ca8645c6d688d83e3d1",
+      "label": "FixturesTest",
+      "file": "test/test_fixtures.py"
+    },
+    {
+      "id": "f398219376485b605f973048e3be9c9bbf77e77c2e7dde6ee47a58082f07bd9d",
+      "label": "InequalityTest",
+      "file": "test/test_notequal.py"
+    },
+    {
+      "id": "ddd1c56f5f51f8fb25b395199a614aee2f9d42b8af3e2e0bed2f065e3b68b598",
+      "label": "OutcomesTest",
+      "file": "test/test_outcomes.py"
+    },
+    {
+      "id": "f249ccbf47af2d5b3e12d74ac227e988b5459673d8f3b50a2de2ad52ba76a52f",
+      "label": "SimplisticTest",
+      "file": "test/test_simple.py"
+    },
+    {
+      "id": "03812b737d7dc3b317d4b0ffab4269744128cc66e3acf77d1dd152f1f6282736",
+      "label": "TruthTest",
+      "file": "test/test_truth.py"
+    }
+  ]
+}
